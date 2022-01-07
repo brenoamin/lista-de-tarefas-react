@@ -9,5 +9,9 @@
 
 ![image](https://user-images.githubusercontent.com/62851616/148600957-765534c3-dc7d-429d-92f1-5e0ef669d3c1.png)
 
+Entre na pasta base pelo terminal e execute o comando `npm install` para instalar as dependências já presentes no package.json. O segundo passo é executar o comando  `npm start`
+
+Espero que gostem! 👋
+
 
 
