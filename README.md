@@ -1,18 +1,13 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Eventos no React
 
-## Exercícios de classe 🏫
-1. Lista de tarefas
+# Lista de Tarefas React
 
----
+1. Lista de tarefas 📝
+<br>
 
-Preencha a checklist para fazer os exercícios:
+![image](https://user-images.githubusercontent.com/62851616/148600907-565b0d09-2230-4a3e-9837-70177e3128ac.png)
 
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
+![image](https://user-images.githubusercontent.com/62851616/148600957-765534c3-dc7d-429d-92f1-5e0ef669d3c1.png)
 
-###### tags: `módulo 3` `front-end` `React`
+
 
